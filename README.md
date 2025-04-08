@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Python projects<br>🌱 I’m currently learning Python<br>📫 How to reach me: andrisivankumpel@gmail.com<br>😄 Pronouns: he/ his
+🔭 I’m currently working on Python projects<br>🌱 I’m currently learning Python, AI, Machine Learning, Data Science and Cybersecurity <br>📫 How to reach me: andrisivankumpel@gmail.com<br>😄 Pronouns: he/ his
 
 
 ## 🌐 Socials:
